@@ -13,6 +13,6 @@ The palettes are initially available as [Apple Color List](https://developer.app
 
 ## Index
 1. [PolyMaker](polymaker)
-	- Polymaker PLA Pro ([cls](Polymaker/Polymaker%20PLA%20Pro.cls), [pdf]([Polymaker/Polymaker%20PLA%20Pro.pdf), [ColorSlurp](Polymaker/PolyLite\342\204\242%20PLA.cscollection))
-	- PolyLite™ PLA ([cls](Polymaker/PolyLite\342\204\242%20PLA.cls), [pdf](Polymaker/PolyLite\342\204\242%20PLA.pdf), [ColorSlurp](Polymaker/PolyLite\342\204\242%20PLA.cscollection))
-	- PolySonic™ PLA ([cls](Polymaker/PolySonic\342\204\242%20PLA.cls), [pdf](Polymaker/PolySonic\342\204\242%20PLA.pdf), [ColorSlurp](Polymaker/PolySonic\342\204\242%20PLA.cscollection))
+	- Polymaker PLA Pro ([clr](Polymaker/Polymaker%20PLA%20Pro.clr), [pdf]([Polymaker/Polymaker%20PLA%20Pro.pdf), [ColorSlurp](Polymaker/PolyLite\342\204\242%20PLA.cscollection))
+	- PolyLite™ PLA ([clr](Polymaker/PolyLite\342\204\242%20PLA.clr), [pdf](Polymaker/PolyLite\342\204\242%20PLA.pdf), [ColorSlurp](Polymaker/PolyLite\342\204\242%20PLA.cscollection))
+	- PolySonic™ PLA ([clr](Polymaker/PolySonic\342\204\242%20PLA.clr), [pdf](Polymaker/PolySonic\342\204\242%20PLA.pdf), [ColorSlurp](Polymaker/PolySonic\342\204\242%20PLA.cscollection))
